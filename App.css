@@ -1,0 +1,124 @@
+.App {
+  text-align: center;
+}
+
+footer {
+  display: inline-flex;
+  background-image: url('./img/fundo.jpeg');
+  justify-content: center;
+  color: white;
+  align-items: center;
+
+  
+}
+
+.liro {
+  display: inline-flex;
+  align-items: center;
+  margin-top: 0em;
+  
+  
+}
+
+.lirodape{
+  padding: 1em;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+.titulo_azul{
+  color: #0678e2;
+}
+
+.inscrever {
+  padding: 1em;
+  background: #0678e2;
+  margin: 2em;
+  border-color: #0678e2;
+  width: 10em;
+}
+
+hr{
+  color: #0678e2;
+  width: 60em;
+}
+
+.rodape_fundo{
+   background-image: url('./img/fundo.jpeg');
+   text-align: center;
+   align-items: center;
+}
+
+
+
+.segundo button {
+  
+  color: white;
+  border-radius: 1em;
+  border: none;
+}
+
+
+.ultimo {
+  color: white;
+}
+
+.logos{
+  width: 2em;
+  height: 2em;
+  border-radius: 2em;
+  padding: 0.5em;
+  margin-top: 5em;
+}
+
+
+.segundo input {
+  width: 18em;
+  height: 3em;
+  background:#4b4c57;
+  color: white;
+  border-color: #0678e2;
+  margin-top: 3em;
+  outline: none;
+  
+}
+
+.segundo {
+  text-align: start;
+  margin-top: 6em;
+}
+
+section {
+ height:  25em;
+}
+
+.primeiro {
+ text-align: center;
+  margin-top: 5em;
+}
+
+.lg {
+  margin-top: 5em;
+  padding: 2em;
+}
+
+.titulo_ff{
+  font-weight: 800;
+  font-size: 2em;
+  margin-left: 3em;
+  
+}
+
+.log{
+  width: 3.2em;
+  height: 3em;
+  position: absolute;
+  margin-left: -4em;
+  margin-top: 2em;
+}
+
